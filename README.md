@@ -9,11 +9,13 @@ The 3D print file (.stl) was created with [FreeCAD](http://www.freecadweb.org).
 
 Both the .stl and the .FCStd files are available here to print or edit.
 
-![image](freecad.png)
+You can also find them on [Thingiverse](http://www.thingiverse.com/thing:1562549) if that's your thing.
+
+![image](images/freecad.png)
 
 ##Notes
 
 * You might need to clean up the holes a little bit for the 2mm static cord to slip through easily.
 * I printed the frame in PLA.
 
-![image](IMG_4746.jpg)
+![image](images/IMG_4746.jpg)
