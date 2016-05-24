@@ -11,6 +11,8 @@ Both the .stl and the .FCStd files are available here to print or edit.
 
 You can also find them on [Thingiverse](http://www.thingiverse.com/thing:1562549) if that's your thing.
 
+I've also uploaded it to my [Hackaday.io account](https://hackaday.io/project/11852-knog-blinder-bike-light-fix) if you'd like to vote for it.
+
 ![image](images/freecad.png)
 
 ##Notes
